@@ -1,0 +1,259 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 75px;
+    background-image: url(img/header-top-bg.jpg);
+}
+.collapse{
+    
+
+}
+.navbar-brand{
+    font-size: 45px;
+    background-color: rgb(233,164,1)
+    ;
+    border-radius: 0% 100% 100% 0% / 95% 0% 100% 5% ;
+    font-weight: 500;
+    color: #fff;
+    }
+.navbar .nav-item a{
+    width:90px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+
+}
+.navbar .nav-item a:hover{
+    background-color: rgb(233,164,1);
+    border-radius: 10%;
+}
+.icon i{
+    font-size: 30px;
+    color: rgb(233, 164, 1);
+    font-weight: 800;
+}
+
+
+
+
+
+.body{
+    
+    
+    background-image: url("img/hero-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.body1 h5{
+    color: rgb(233,164,1);
+    font-size: 25px;
+    font-weight: 600;
+}
+.body1 h1{
+    color: white;
+    font-size: 65px;
+    font-weight: 700;
+}
+.body1 span {
+    color: rgb(233,164,1);
+    font-size: 65px;
+    font-weight: 700;
+}
+.body1 p{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+.body1 button{
+    font-size: 23px;
+    color:#fff;
+    
+    font-weight: 500;
+    background-color: rgb(233,164,1);
+   
+    border: 2px solid rgba(10, 83, 208, );
+}
+
+.brand{
+    background-image: url("img/header-top-bg.jpg");
+    background-attachment: fixed;
+}
+
+.blog{
+    background-image: url("img/hero-bg.jpg");
+
+}
+.blog .text p{
+        color: white;
+        font-size: 20px;
+    font-weight: 700;
+    }
+    .blog .text h2{
+        color: white;
+        font-weight: 700;
+        text-shadow: 25px ,25px, 25px, 25px  rgb(195, 3, 3);
+    }
+    .blog .text span{
+     color: rgb(233,164,1);   
+     
+    }
+
+    .blog img{
+        
+    }
+
+.imgtext{
+         
+    }
+
+.imgtext h3{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+.imgtext span{
+    color: rgb(233,164,1);
+}
+.imgtext p{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+} 
+.imgtext button{
+    position: relative;
+    top: -133px;
+    background-color:  rgb(233,164,1);
+    border: 3px solid  rgb(233,164,1);
+    font-weight: 700;
+    font-size: 20px;
+    color: black;
+}
+
+.watch{
+     height: 400px;
+    background-image: url(img/section-wrapper-bg.png);
+    background-position:center;
+    background-size: cover;
+    height: 700px;
+
+
+}
+.watchtext h2{
+    color: white;
+    font-size: 70px;    
+    
+    font-weight: 700;
+}
+.watchtext span{
+    color: rgb(233,164,1);
+}
+.watchimg img{
+    border-radius: 25px;
+}
+
+.matches2 h1{
+    font-weight: 800;
+    color: rgb(233,164,1);
+}
+.matches2 h4{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.gamestext h1{
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: underline  rgb(233,164,1);
+    
+}
+.gamestext span{
+    color: rgb(233,164,1);
+
+}
+.games1 h4{
+    color: white;
+    font-weight: 700;
+}
+.games1 span{
+    color: rgb(233,164,1);
+
+}
+.games1 P{
+    color: white;
+    font-weight: 700;
+}
+
+.productcorner{
+    background-image: url(img/header-top-bg.jpg);
+}
+.cornertext h1{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+}
+.cornertext span{
+    color: rgb(233,164,1);
+}
+.cornertext p{
+    color: rgb(153, 152, 152);
+    font-size: 18px;
+    font-weight: 700;
+}
+.btn button{
+    font-size: 22px;
+    background-color: rgb(233,164,1);
+    font-weight: 700;
+    border: none;
+    color: black;
+}
+#product1 h5{
+
+    font-weight: 700;
+}
+#product1 p{
+    color: rgb(233,164,1);
+    font-size: 20px;
+    font-weight: 600;
+}
+.newstext h2{
+    
+    font-weight: 700;
+
+}
+.newstext span{
+    color: rgb(233,164,1);
+    font-weight: 700;
+
+}
+.newstext p{
+    color: rgb(79, 77, 77);
+    font-size: 18px;
+    font-weight: 700;
+}
+.newstext1 i{
+    font-size: 20px;
+    color: rgb(233,164,1);
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+.newstext1 h4{
+    font-weight: 700;
+}
+.newstext1 h4:hover{
+    color: rgb(233,164,1);
+    font-weight: 700;
+
+}
+.newstext1 p{
+    color: rgb(79, 77, 77);
+    font-size: 16px;
+    font-weight: 700;
+}
