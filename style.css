@@ -4,7 +4,7 @@
 }
 .navbar{
     height: 75px;
-    background-image: url(img/header-top-bg.jpg);
+    background-image: url(header-top-bg.jpg);
 }
 .collapse{
     
@@ -42,7 +42,7 @@
 .body{
     
     
-    background-image: url("img/hero-bg.jpg");
+    background-image: url("hero-bg.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -81,12 +81,12 @@
 }
 
 .brand{
-    background-image: url("img/header-top-bg.jpg");
+    background-image: url("header-top-bg.jpg");
     background-attachment: fixed;
 }
 
 .blog{
-    background-image: url("img/hero-bg.jpg");
+    background-image: url("hero-bg.jpg");
 
 }
 .blog .text p{
@@ -137,7 +137,7 @@
 
 .watch{
      height: 400px;
-    background-image: url(img/section-wrapper-bg.png);
+    background-image: url("section-wrapper-bg.png");
     background-position:center;
     background-size: cover;
     height: 700px;
@@ -190,7 +190,7 @@
 }
 
 .productcorner{
-    background-image: url(img/header-top-bg.jpg);
+    background-image: url(header-top-bg.jpg);
 }
 .cornertext h1{
     color: white;
